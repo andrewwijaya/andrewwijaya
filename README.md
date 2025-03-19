@@ -14,3 +14,4 @@ Professional Skills:
 Interests:
 - Learning iOS/Swift development
 - Machine Learning / Deep Learning
+- Containerisation technology such as Docker/Kubernetes for high availability and scalable solutions
